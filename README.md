@@ -4,7 +4,7 @@
 | IEEE ICCE-Asia 2025 | A High Throughput FPGA-Based Softmax Design with Reconfigurable Max-Adder Trees | **Sanghyeok Park (1st Author)**, Junsu Hwang, Xuan Truong Nguyen, Chaehag Yi | 2025.10.28. |
 
 ## Activities
-| Activity | Depertment | Date |
+| Activity | Department | Date |
 |----------|------------|------|
 |Electrical and Electronics Engineering | Chung-Ang Univ. | 2023.03.– |
 |중앙대학교 중앙동아리 학술탐구분과 컴퓨터 하드웨어 CECOM | Chung-Ang Univ. | 2024.03.– |
@@ -12,7 +12,7 @@
 |Seoul National Univ. (CAPP) Internship | Seoul National Univ. | 2025.06.–2025.08. |
 
 ## Study Mentor
-| Activity | Depertment | Date |
+| Activity | Department | Date |
 |----------|------------|------|
 |**Verilog and Computer System Study**| CECOM | 2025.03.–2025.06. |
 |**Logic Circuit and Digital Design** | CECOM | 2024.09.–2023.12. |
