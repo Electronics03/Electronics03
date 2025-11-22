@@ -2,7 +2,7 @@
 
 | Conference | Title | Authors | Date |
 |------------|-------|---------|------|
-| ICCE-Asia 2025   | A High Throughput FPGA-Based Softmax Design with Reconfigurable Max-Adder Trees | **Sanghyeok Park (1st Author)**, Junsu Hwang, Chaehag Yi, Xuan Truong Nguyen (Corresponding Author) | 2025-10-28  |
+| ICCE-Asia 2025   | A High Throughput FPGA-Based Softmax Design with Reconfigurable Max-Adder Trees | **Sanghyeok Park (1st Author)**, Junsu Hwang, Xuan Truong Nguyen, Chaehag Yi | 2025-10-28  |
 
 ## Stats
 
