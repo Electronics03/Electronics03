@@ -22,6 +22,12 @@
 
 ## 🔬 RESEARCH EXPERIENCE
 
+### [AI PIM Semiconductor Design Research Center](https://ai-pim.org/) (KAIST, Jul. 2026 – Present)
+- **Intern**
+- Research topic: Inference acceleration of VLA models and dedicated HW accelerator design
+- Developing token reduction and quantization techniques to accelerate VLA model inference
+- Designing and implementing a dedicated hardware accelerator for VLA inference
+
 ### [Semiconductor System Lab.](https://ssl.kaist.ac.kr) (KAIST, Mar. 2026 – Present)
 - **Undergraduate Intern**
 - Research topic: VLA and RTL design for VLA
