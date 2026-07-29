@@ -23,16 +23,16 @@
 ## 🔬 RESEARCH EXPERIENCE
 
 ### [AI PIM Semiconductor Design Research Center](https://ai-pim.org/) (KAIST, Jul. 2026 – Present)
-- **Intern**
-- Research topic: Inference acceleration of VLA models and dedicated HW accelerator design
-- Developing token reduction and quantization techniques to accelerate VLA model inference
-- Designing and implementing a dedicated hardware accelerator for VLA inference
+- **Intern, Prof. Yoo, Hoi-Jun**
+- Research topic: Dedicated hardware accelerator design for VLA model inference
+- Architecting and implementing RTL hardware for VLA inference acceleration
+- Hardware/software co-design of token reduction and quantization for acceleration
 
 ### [Semiconductor System Lab.](https://ssl.kaist.ac.kr) (KAIST, Mar. 2026 – Present)
-- **Undergraduate Intern**
-- Research topic: VLA and RTL design for VLA
-- Researching VLA for low latency and high accuracy, and implemented hardware modules for VLA
-- Synthesized the design and evaluated functionality, timing, and power
+- **Undergraduate Intern, Prof. Yoo, Hoi-Jun**
+- Research topic: Low-latency inference optimization of VLA models via token reduction and quantization
+- Implemented kernels for quantization and vectorized code for latency optimization
+- Applied and validated merging, pruning, and mixed precision on GR00T, $\pi_0$, $\pi_{0.5}$, DynamicVLA, and OpenVLA
 
 ### [Computer Architecture and Parallel Processing Lab.](http://capp.snu.ac.kr/?p=publication#Conference) (Seoul National University, Jun. 2025 – Aug. 2025)
 - **Undergraduate Intern, Prof. Xuan Truong Nguyen**
@@ -44,6 +44,7 @@
 ### Awards
 | Date | Award | Competition | Institution |
 |------|-------|-------------|-------------|
+| 2026 | **[The grand award (1st)](https://www.disu.ac.kr/LOCnLOS/AIX/notice?md=v&bbsidx=8800)** | [Deep Learning Product Recognition AI Competition](https://www.disu.ac.kr/LOCnLOS/AIX/notice?md=v&bbsidx=8654) | Next Generation Semiconductor COSS |
 | 2026 | **[Program Director’s Award (2nd)](https://github.com/People-of-the-Approximation/SANTA_SIF2026)** | [Semiconductor Innovation Festival (SIF)](https://polargate.disu.ac.kr/contest/SIF2026/winner?sc=y) | Next Generation Semiconductor COSS |
 
 ### Honors
