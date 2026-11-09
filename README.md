@@ -126,4 +126,4 @@
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=electronics)](https://solved.ac/profile/electronics)
 
 ## 📫 CONTACT ME
-- Email: electronics@cau.ac.kr
+- Email: sanghyeok.park@kaist.ac.kr
